@@ -5,8 +5,8 @@ Neste repositório estão guardados todos os artefatos usados nos posts sobre SQ
 O blog DB4Beginners foi criado com o objetivo de ajudar desenvolvedores iniciantes a modelar e consultar bancos de dados relacionais e NoSQL para que eles possam criar ótimas aplicações, trabalhar em excelentes empresas com ótimos salários.
 Desta forma os posts seguem uma sequencia com assuntos relacionados a banco de dados.
 
-Hoje começamos a conversar sobre o SQL Server 2017. Neste repositório ficarão centralizados todos os artefatos gerados nos posts. 
-Destaco o máquina virtual e os scripts. 
+Hoje começamos a conversar sobre o SQL Server 2017. Neste repositório ficarão centralizados todos os artefatos gerados nos posts, menos a máquina virtual que está disponível no link: https://github.com/DaniMonteiroDBA/DB4Beginners---SQLServer2017
+
 
 
 
