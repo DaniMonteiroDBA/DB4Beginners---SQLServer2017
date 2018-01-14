@@ -1,4 +1,5 @@
-# DB4Beginners---SQLServer2017
+
+* # DB4Beginners---SQLServer2017
 Neste repositório estão guardados todos os artefatos usados nos posts sobre SQL Server 2017, do blog DB4Beginners.com 
 
 
@@ -21,3 +22,6 @@ Em caso de dúvidas é fácil me encontrar nas redes sociais :-)
 
 * https://www.linkedin.com/in/danimonteirodba/
 
+
+Não perca os eventos do meetup Databases SP, acesse o link e faça parte!
+https://www.meetup.com/pt-BR/Databases-SP/
