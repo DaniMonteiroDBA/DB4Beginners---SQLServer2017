@@ -11,7 +11,7 @@ Neste repositório ficarão centralizados todos os artefatos gerados nos posts, 
 
 
 
-Acesse o blog! O endereço é http://wwww.DB4Beginners.com
+Cadastre-se e acesse o blog! O endereço é http://wwww.DB4Beginners.com
 
 
 
